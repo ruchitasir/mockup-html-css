@@ -1,0 +1,178 @@
+
+
+h1 a {
+    color: #EECC00;
+
+    font-weight: normal;
+}
+
+
+h2, h3{
+
+    font-weight: normal;
+    
+}
+
+nav a{
+
+    color: grey;
+    margin: 5px;
+}
+
+h3{
+
+    color: grey;
+
+}
+
+h2 a{
+
+    color: black;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+
+h4 a{
+
+    color: #EECC00;
+    text-align: left;
+    float: right;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    content: " ";
+    clear: both;
+    height: 0;
+    font-size: 0;
+
+}
+
+nav a{
+    color: #EECC00;
+
+}
+
+footer p{
+
+    color: grey;
+}
+
+
+
+p:first-letter {
+    font-size: 500%;
+    float:left;
+    font-weight: normal;
+    color: grey;
+  }
+
+  
+  
+
+  article{
+    border-bottom: 2px solid grey;
+    width: 70%;
+
+  }
+
+  footer{
+      margin: 10px;
+  }
+ /*
+ 
+ 
+body{
+    width: 900px;
+    border-left-style: 8px, solid, grey;
+    padding: 24px;
+}
+article{
+    border: 0 0 2px 0, solid, grey;
+}
+h1 a{
+    color: #fcc203;
+    font-size: 62px;
+    font-family: "Lato", sans-serif;
+    font-weight: 50;
+    text-decoration: none;
+}
+h2 a{
+    color: black;
+    font-size: 60px;
+    font-family: "Lato", sans-serif;
+    font-weight: 50;
+    text-decoration: none;
+}
+
+h2 {
+    color: black;
+    font-size: 24px;
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+}
+h3{
+    color: grey;
+    font-size: 45px;
+    font-family: "Lato", sans-serif;
+    font-weight: 50;
+    text-decoration: none;
+    margin: 80px 0 0 0;
+}
+h4 a{
+    font-family: "Lato", sans-serif;
+    text-align: right;
+    text-decoration: none;
+    color: #fcc203;
+    float: right;
+}
+nav a{
+    color: rgba(150,150,150,.5);
+    font-size: 22px;
+    font-family: "Lato", sans-serif;
+    font-weight: 50;
+    padding: 0 7px 5px 0;
+    margin: 5px;
+    border-bottom: 2px solid transparent;
+}
+a:hover{
+    border-color: white;
+}
+article p{
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 50;
+}
+footer{
+    font-family: "Lato", sans-serif;
+    font-weight: 50;
+    color: rgba(150,150,150,.5);
+}
+footer a{
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 50;
+    color: #fcc203;
+    margin: 600px 0px 0px 0px;
+}
+article p::first-letter{
+    float: none;
+    font-size: 600%;
+    color: rgba(150,150,150,.5);
+    clear: left;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    content: " ";
+    clear: both;
+    height: 0;
+    font-size: 0;
+    }
+ 
+ 
+ */
